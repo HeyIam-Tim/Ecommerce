@@ -1,1 +1,4 @@
-.replit poetry.lock pyproject.toml requirements.txt
+.replit
+poetry.lock
+pyproject.toml
+requirements.txt
